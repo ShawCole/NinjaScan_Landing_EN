@@ -1,0 +1,186 @@
+{
+    "meta": {
+        "title": "NinjaScan - Solución de Cumplimiento EAA",
+        "description": "Asegúrese de que su sitio web cumple con la Ley Europea de Accesibilidad"
+    },
+    "banner": {
+        "warning": "🚨 La mayoría de los sitios web no cumplen con la nueva ley de la UE"
+    },
+    "hero": {
+        "title": "Podrías ser multado hasta €100,000 si no cumples",
+        "subtitle": "En España, las empresas con más de 10 empleados y una facturación anual superior a €2 millones están sujetas a estas sanciones bajo el Acta Europea de Accesibilidad.",
+        "cta": "🔎 Analize sitio",
+        "disclaimer": "No se requiere pago para verificar tu cumplimiento",
+        "countdown": {
+            "title": "Tiempo restante hasta la fecha límite:",
+            "units": {
+                "days": "Días",
+                "hours": "Horas",
+                "minutes": "Minutos",
+                "seconds": "Segundos"
+            }
+        }
+    },
+    "consequences": {
+        "title": "El Coste de la Inacción",
+        "cards": {
+            "fines": {
+                "title": "Multas Sustanciales",
+                "description": "El incumplimiento puede resultar en multas de hasta 100.000 € por infracción"
+            },
+            "shutdown": {
+                "title": "Cierre del Sitio Web",
+                "description": "Los reguladores pueden ordenar que su sitio web se desconecte hasta que cumpla"
+            },
+            "revenue": {
+                "title": "Pérdida de Ingresos",
+                "description": "Los productos o servicios no conformes pueden ser prohibidos en el mercado"
+            },
+            "legal": {
+                "title": "Costes Legales",
+                "description": "Defenderse contra acciones regulatorias es costoso y requiere mucho tiempo"
+            }
+        }
+    },
+    "urgency": {
+        "title": "Solo quedan {{days}} días hasta la fecha límite del {{deadline}}",
+        "description": "La mayoría de las empresas no estarán preparadas. Más del 95% de los sitios web actualmente no pasan la auditoría EAA: no espere hasta estar en el punto de mira.",
+        "cta": "🚨 Evita riesgos",
+        "ctaFix": "Repara sitio"
+    },
+    "solution": {
+        "title": "Conozca Eco Web Ninja: Cumplimiento 100% Sin Esfuerzo y Asequible",
+        "features": {
+            "audit": {
+                "title": "Auditoría Completa EAA y WCAG 2.1 AA",
+                "description": "Verifica su sitio web contra todas las pautas principales."
+            },
+            "fixes": {
+                "title": "Correcciones Automáticas Instantáneas",
+                "description": "Soluciona la mayoría de los problemas de cumplimiento en minutos, sin necesidad de conocimientos técnicos."
+            },
+            "guidance": {
+                "title": "Guía Clara y Sencilla",
+                "description": "Para todo lo que necesite atención manual, recibirá instrucciones paso a paso en lenguaje sencillo."
+            },
+            "affordable": {
+                "title": "Asequible",
+                "description": "Desde solo 49 €/mes—mucho menos que contratar a un consultor o defenderse de una demanda."
+            },
+            "roi": {
+                "title": "Se Paga Solo",
+                "description": "NinjaScan también se amortiza con costes energéticos reducidos y mejor SEO."
+            },
+            "free": {
+                "title": "Escaneo Gratuito",
+                "description": "NinjaScan proporciona un Informe de Accesibilidad obligatorio para publicar en su sitio web totalmente GRATIS. También incluye un Widget de Accesibilidad complementario."
+            },
+            "ctaCompliant": "Cumple normas"
+        },
+        "cta": "🔎 Escanear Mi Sitio Gratis"
+    },
+    "timeline": {
+        "title": "NinjaScan te garantiza el cumplimiento en una fracción del tiempo",
+        "subtitle": "Sin NinjaScan, te enfrentas a meses de retrasos — y serios riesgos legales.",
+        "steps": {
+            "audit": {
+                "title": "Auditoría",
+                "description": "2-3 meses de revisión exhaustiva"
+            },
+            "remediation": {
+                "title": "Corrección",
+                "description": "4-6 meses de ajustes técnicos"
+            },
+            "testing": {
+                "title": "Pruebas",
+                "description": "2-3 meses de implementación"
+            },
+            "documentation": {
+                "title": "Documentación",
+                "description": "1-2 meses de desarrollo de políticas"
+            }
+        },
+        "conclusion": "Empieza ahora para evitar demoras, estrés de última hora y costosas sanciones por incumplimiento."
+    },
+    "pricing": {
+        "title": "Precios transparentes. Sin sorpresas.",
+        "subtitle": "Precios simples para todos",
+        "toggle": {
+            "yearly": "Anual",
+            "monthly": "Mensual",
+            "discount": "-15%"
+        },
+        "period": {
+            "month": "/mes",
+            "year": "/año"
+        },
+        "plans": {
+            "pro": {
+                "name": "Pro",
+                "description": "Cumplimiento básico para pequeñas empresas",
+                "limit": "Hasta 75.000 visitas/mes",
+                "cta": "Comprar Ahora"
+            },
+            "proPlus": {
+                "tag": "Más Popular",
+                "name": "Pro Plus",
+                "description": "Cumplimiento avanzado para empresas medianas",
+                "limit": "Hasta 150.000 visitas/mes",
+                "cta": "Comprar Ahora"
+            },
+            "ultimate": {
+                "name": "Ultimate",
+                "description": "Cumplimiento completo para grandes organizaciones",
+                "limit": "Hasta 500.000 visitas/mes",
+                "cta": "Comprar Ahora"
+            },
+            "enterprise": {
+                "name": "Enterprise",
+                "description": "Solución personalizada para alto tráfico",
+                "price": "Precio Personalizado",
+                "limit": "Más de 500.000 visitas/mes",
+                "cta": "Contactar Ventas"
+            }
+        },
+        "features": {
+            "report": "✓ Informe técnico detallado de accesibilidad",
+            "widget": "✓ Widget de accesibilidad integrable",
+            "generator": "✓ Generador de declaraciones de accesibilidad",
+            "compliance": "✓ Cumplimiento total con todos los estándares legales de accesibilidad",
+            "eco": "✓ Eco Scanner reduce su huella de carbono"
+        }
+    },
+    "faq": {
+        "title": "Preguntas Frecuentes",
+        "questions": {
+            "ignore": {
+                "question": "P: ¿Qué pasa si lo ignoro?",
+                "answer": "R: Se arriesga a multas importantes, problemas legales y que su sitio web sea desconectado."
+            },
+            "howItWorks": {
+                "question": "P: ¿Cómo funciona Eco Web Ninja?",
+                "answer": "R: Escaneamos, corregimos y le guiamos en cada paso, manejando automáticamente la mayor parte del proceso."
+            },
+            "compliance": {
+                "question": "P: ¿Cómo sé si cumplo?",
+                "answer": "R: Ejecute un escaneo gratuito: obtenga un informe de cumplimiento claro e instantáneo y vea su nivel de riesgo."
+            }
+        }
+    },
+    "closingCta": {
+        "title": "No Espere Hasta Que Sea Demasiado Tarde",
+        "description": "Compruebe su sitio web gratis y cumpla antes de la fecha límite.",
+        "cta": "Escanea gratis"
+    },
+    "accessibilityModal": {
+        "title": "¡Obtén tu Informe de Accesibilidad Gratis Ahora!",
+        "why": "¿Por qué NinjaSCAN.ai?",
+        "description": "Analizamos más a fondo que cualquier otra herramienta que conozcamos: evaluamos la <strong>estructura</strong>, la <strong>usabilidad</strong>, el <strong>contraste</strong> y la <strong>interacción</strong>.<br><br>Nuestros informes cubren <strong>WCAG 2.2</strong>, la normativa <strong>EN 301 549</strong> y la Directiva de Accesibilidad de la UE (EAA) — garantizando el cumplimiento legal total en España.",
+        "name": "Nombre",
+        "email": "Correo electrónico",
+        "advisor": "Asesor",
+        "urlLabel": "URL del sitio web",
+        "urlPlaceholder": "https://ejemplo.es",
+        "submit": "Enviar y obtener tu informe"
+    }
+}

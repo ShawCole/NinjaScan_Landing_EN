@@ -1,0 +1,186 @@
+{
+    "meta": {
+        "title": "NinjaScan – EAA-Konformitätslösung",
+        "description": "Stellen Sie sicher, dass Ihre Website dem Europäischen Barrierefreiheitsgesetz entspricht"
+    },
+    "banner": {
+        "warning": "🚨 Die meisten Websites entsprechen nicht dem neuen EU-Gesetz"
+    },
+    "hero": {
+        "title": "Bei Nicht-Einhaltung drohen Bußgelder von bis zu €100.000",
+        "subtitle": "In Deutschland unterliegen Unternehmen mit mehr als 10 Mitarbeitenden und einem Jahresumsatz über € 2 Millionen diesen Strafen gemäß dem Europäischen Barrierefreiheitsgesetz.",
+        "cta": "🔎 Website prüfen",
+        "disclaimer": "Keine Zahlung erforderlich, um Ihre Konformität zu prüfen",
+        "countdown": {
+            "title": "Verbleibende Zeit bis zur Frist:",
+            "units": {
+                "days": "Tage",
+                "hours": "Stunden",
+                "minutes": "Minuten",
+                "seconds": "Sekunden"
+            }
+        }
+    },
+    "consequences": {
+        "title": "Die Kosten des Nichtstuns",
+        "cards": {
+            "fines": {
+                "title": "Erhebliche Bußgelder",
+                "description": "Nicht-Einhaltung kann zu Bußgeldern von bis zu €100.000 pro Verstoß führen"
+            },
+            "shutdown": {
+                "title": "Abschaltung der Website",
+                "description": "Behörden können die Abschaltung Ihrer Website anordnen, bis die Konformität erreicht ist"
+            },
+            "revenue": {
+                "title": "Verlorene Einnahmen",
+                "description": "Nicht-konforme Produkte oder Dienstleistungen können vom Markt ausgeschlossen werden"
+            },
+            "legal": {
+                "title": "Rechtskosten",
+                "description": "Die Verteidigung gegen behördliche Maßnahmen ist teuer und zeitaufwendig"
+            }
+        }
+    },
+    "urgency": {
+        "title": "Nur noch {{days}} Tage bis zur Frist am {{deadline}}",
+        "description": "Die meisten Unternehmen werden nicht rechtzeitig bereit sein. Über 95 % der Websites bestehen derzeit die EAA-Prüfung nicht – riskieren Sie nicht, ins Visier zu geraten.",
+        "cta": "🚨 Risiken vermeiden",
+        "ctaFix": "Website reparieren"
+    },
+    "solution": {
+        "title": "Lernen Sie Eco Web Ninja kennen: Mühelose, erschwingliche 100%ige Konformität",
+        "features": {
+            "audit": {
+                "title": "Vollständiges EAA- und WCAG 2.1 AA-Audit",
+                "description": "Prüft Ihre Website anhand aller wichtigen Richtlinien."
+            },
+            "fixes": {
+                "title": "Sofortige automatische Korrekturen",
+                "description": "Behebt die meisten Konformitätsprobleme in wenigen Minuten – keine technischen Kenntnisse erforderlich."
+            },
+            "guidance": {
+                "title": "Klare, einfache Anleitung",
+                "description": "Für alles, was manuell angepasst werden muss, erhalten Sie eine leicht verständliche Schritt-für-Schritt-Anleitung."
+            },
+            "affordable": {
+                "title": "Erschwinglich",
+                "description": "Ab nur €49/Monat—viel weniger als die Einstellung eines Beraters oder die Verteidigung gegen eine Klage."
+            },
+            "roi": {
+                "title": "Es zahlt sich aus",
+                "description": "NinjaScan macht sich auch durch geringere Energiekosten und verbessertes SEO mehr als bezahlt."
+            },
+            "free": {
+                "title": "Kostenloser Scan",
+                "description": "NinjaScan stellt kostenlos einen verpflichtenden Barrierefreiheitsbericht zur Verfügung, den Sie auf Ihrer Website veröffentlichen können. Zusätzlich ist ein ergänzendes Barrierefreiheits-Widget enthalten."
+            }
+        },
+        "cta": "🔎 Jetzt Website kostenlos scannen",
+        "ctaCompliant": "Compliance sichern"
+    },
+    "timeline": {
+        "title": "Mit NinjaScan erreichen Sie die Compliance in einem Bruchteil der Zeit",
+        "subtitle": "Ohne NinjaScan drohen monatelange Verzögerungen — und ernsthafte rechtliche Risiken.",
+        "steps": {
+            "audit": {
+                "title": "Audit",
+                "description": "2–3 Monate umfassende Überprüfung"
+            },
+            "remediation": {
+                "title": "Behebung",
+                "description": "4–6 Monate technische Anpassungen"
+            },
+            "testing": {
+                "title": "Tests",
+                "description": "2–3 Monate Implementierung"
+            },
+            "documentation": {
+                "title": "Dokumentation",
+                "description": "1–2 Monate zur Erstellung von Richtlinien"
+            }
+        },
+        "conclusion": "Starten Sie jetzt, um Verzögerungen, Last-Minute-Stress und teure Verstöße zu vermeiden."
+    },
+    "pricing": {
+        "title": "Transparente Jahrespreise. Keine Überraschungen.",
+        "subtitle": "Einfache Preise für alle",
+        "toggle": {
+            "yearly": "Jährlich",
+            "monthly": "Monatlich",
+            "discount": "-15%"
+        },
+        "period": {
+            "month": "/Monat",
+            "year": "/Jahr"
+        },
+        "plans": {
+            "pro": {
+                "name": "Pro",
+                "description": "Grundlegende Konformität für kleine Unternehmen",
+                "limit": "Bis zu 75.000 Besuche/Monat",
+                "cta": "Jetzt kaufen"
+            },
+            "proPlus": {
+                "tag": "Beliebteste Wahl",
+                "name": "Pro Plus",
+                "description": "Erweiterte Konformität für Mittelstand",
+                "limit": "Bis zu 150.000 Besuche/Monat",
+                "cta": "Jetzt kaufen"
+            },
+            "ultimate": {
+                "name": "Ultimate",
+                "description": "Vollständige Konformität für große Organisationen",
+                "limit": "Bis zu 500.000 Besuche/Monat",
+                "cta": "Jetzt kaufen"
+            },
+            "enterprise": {
+                "name": "Enterprise",
+                "description": "Maßgeschneiderte Lösung für hohe Besucherzahlen",
+                "price": "Individuell",
+                "limit": "Über 500.000 Besuche/Monat",
+                "cta": "Vertrieb kontaktieren"
+            }
+        },
+        "features": {
+            "report": "✓ Detaillierter technischer Barrierefreiheitsbericht",
+            "widget": "✓ Integrierbares Barrierefreiheits-Widget",
+            "generator": "✓ Generator für Barrierefreiheitserklärungen",
+            "compliance": "✓ Vollständige Konformität mit allen gesetzlichen Barrierefreiheitsstandards",
+            "eco": "✓ Eco-Scanner reduziert Ihren CO₂-Fußabdruck"
+        }
+    },
+    "faq": {
+        "title": "Häufig gestellte Fragen",
+        "questions": {
+            "ignore": {
+                "question": "F: Was passiert, wenn ich das ignoriere?",
+                "answer": "A: Sie riskieren hohe Bußgelder, rechtliche Probleme und die Abschaltung Ihrer Website."
+            },
+            "howItWorks": {
+                "question": "F: Wie funktioniert Eco Web Ninja?",
+                "answer": "A: Wir scannen, beheben und führen Sie durch jeden Schritt, wobei der Großteil des Prozesses automatisch abläuft."
+            },
+            "compliance": {
+                "question": "F: Woher weiß ich, ob ich konform bin?",
+                "answer": "A: Führen Sie einen kostenlosen Scan durch – erhalten Sie einen klaren, sofortigen Konformitätsbericht und sehen Sie Ihr Risikoniveau."
+            }
+        }
+    },
+    "closingCta": {
+        "title": "Warten Sie nicht, bis es zu spät ist",
+        "description": "Prüfen Sie Ihre Website kostenlos und werden Sie vor der Frist konform.",
+        "cta": "Kostenloser Scan"
+    },
+    "accessibilityModal": {
+        "title": "Kostenlosen Barrierefreiheitsbericht jetzt anfordern!",
+        "why": "Warum NinjaSCAN.ai?",
+        "description": "Wir prüfen gründlicher als jedes andere Tool, das wir kennen – wir analysieren <strong>Struktur</strong>, <strong>Benutzerfreundlichkeit</strong>, <strong>Kontrast</strong> und <strong>Interaktion</strong>.<br><br>Unsere Berichte decken sowohl <strong>WCAG 2.2, BFSG</strong> als auch die <strong>EN 301 549</strong> Norm der EU-Richtlinie zur Barrierefreiheit ab — und sorgen so für vollständige rechtliche Konformität in Deutschland.",
+        "name": "Name",
+        "email": "E-Mail-Adresse",
+        "advisor": "Berater",
+        "urlLabel": "Website-URL",
+        "urlPlaceholder": "https://beispiel.de",
+        "submit": "Absenden & Bericht erhalten"
+    }
+}
