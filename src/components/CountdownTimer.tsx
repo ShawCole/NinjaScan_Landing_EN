@@ -47,25 +47,25 @@ export const CountdownTimer = () => {
       style={{ transform: `scale(${scale})`, transformOrigin: 'center', transition: 'transform 0.2s' }}
     >
       <div className="text-center">
-        <div className="bg-gray-100 dark:bg-white/10 shadow-lg backdrop-blur-sm rounded-lg p-6 min-w-[120px] border border-gray-200/50 dark:border-white/10">
+        <div className="bg-gray-100 shadow-lg backdrop-blur-sm rounded-lg p-6 min-w-[120px] border border-gray-200/50 dark:border-white/10">
           <span className="text-6xl font-bold text-gray-900 dark:text-white">{timeLeft.days}</span>
           <p className="text-lg mt-2 text-gray-600 dark:text-gray-300">{t('hero.countdown.units.days')}</p>
         </div>
       </div>
       <div className="text-center">
-        <div className="bg-gray-100 dark:bg-white/10 shadow-lg backdrop-blur-sm rounded-lg p-6 min-w-[120px] border border-gray-200/50 dark:border-white/10">
+        <div className="bg-gray-100 shadow-lg backdrop-blur-sm rounded-lg p-6 min-w-[120px] border border-gray-200/50 dark:border-white/10">
           <span className="text-6xl font-bold text-gray-900 dark:text-white">{timeLeft.hours}</span>
           <p className="text-lg mt-2 text-gray-600 dark:text-gray-300">{t('hero.countdown.units.hours')}</p>
         </div>
       </div>
       <div className="text-center">
-        <div className="bg-gray-100 dark:bg-white/10 shadow-lg backdrop-blur-sm rounded-lg p-6 min-w-[120px] border border-gray-200/50 dark:border-white/10">
+        <div className="bg-gray-100 shadow-lg backdrop-blur-sm rounded-lg p-6 min-w-[120px] border border-gray-200/50 dark:border-white/10">
           <span className="text-6xl font-bold text-gray-900 dark:text-white">{timeLeft.minutes}</span>
           <p className="text-lg mt-2 text-gray-600 dark:text-gray-300">{t('hero.countdown.units.minutes')}</p>
         </div>
       </div>
       <div className="text-center">
-        <div className="bg-gray-100 dark:bg-white/10 shadow-lg backdrop-blur-sm rounded-lg p-6 min-w-[120px] border border-gray-200/50 dark:border-white/10">
+        <div className="bg-gray-100 shadow-lg backdrop-blur-sm rounded-lg p-6 min-w-[120px] border border-gray-200/50 dark:border-white/10">
           <span className="text-6xl font-bold text-gray-900 dark:text-white">{timeLeft.seconds}</span>
           <p className="text-lg mt-2 text-gray-600 dark:text-gray-300">{t('hero.countdown.units.seconds')}</p>
         </div>

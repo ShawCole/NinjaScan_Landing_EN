@@ -25,7 +25,7 @@ export function LanguageSwitcher() {
                 <Button
                     variant="ghost"
                     size="icon"
-                    className="fixed bottom-16 right-4 z-50 rounded-full bg-white/10 backdrop-blur-sm dark:bg-black/20 hover:bg-white/20 dark:hover:bg-black/30 transition-colors"
+                    className="fixed bottom-16 right-4 z-50 rounded-full bg-white/10 backdrop-blur-sm hover:bg-white/20 transition-colors"
                 >
                     <Languages className="h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all" />
                     <span className="sr-only">Switch language</span>

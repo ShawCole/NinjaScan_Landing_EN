@@ -397,7 +397,7 @@ const Index = () => {
       </div>
     </section>
 
-    <ThemeToggle />
+    <div className="hidden"><ThemeToggle /></div>
     <LanguageSwitcher />
 
     {/* Accessibility Modal */}

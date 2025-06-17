@@ -12,7 +12,7 @@ export const PricingToggle = ({ isYearly, onToggle }: PricingToggleProps) => {
         <div className="flex justify-center mb-8">
             <div className="flex items-center justify-center w-[300px]">
                 <div className="w-[100px] text-right">
-                    <span className={`text-lg font-medium ${!isYearly ? 'text-gray-900 dark:text-white' : 'text-gray-500 dark:text-gray-400'}`}>
+                    <span className={`text-lg font-medium ${!isYearly ? 'text-gray-900 : 'text-gray-500 dark:text-gray-400'}`}>
                         {t('pricing.toggle.monthly')}
                     </span>
                 </div>
@@ -28,7 +28,7 @@ export const PricingToggle = ({ isYearly, onToggle }: PricingToggleProps) => {
                     />
                 </button>
                 <div className="w-[100px] flex items-center">
-                    <span className={`text-lg font-medium ${isYearly ? 'text-gray-900 dark:text-white' : 'text-gray-500 dark:text-gray-400'}`}>
+                    <span className={`text-lg font-medium ${isYearly ? 'text-gray-900 : 'text-gray-500 dark:text-gray-400'}`}>
                         {t('pricing.toggle.yearly')}
                     </span>
                     <span className="text-sm text-green-400 font-medium ml-2">{t('pricing.toggle.discount')}</span>
